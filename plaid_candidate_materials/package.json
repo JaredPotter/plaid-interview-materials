@@ -1,0 +1,21 @@
+{
+  "name": "extractor",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv-parse": "^2",
+    "request": "^2",
+    "source-map-support": "^0.5",
+    "uuid": "^3"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22",
+    "@types/request": "^2",
+    "@types/uuid": "^3",
+    "tslint": "^5",
+    "tslint-eslint-rules": "^5",
+    "typescript": "^3"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "type": "result",
+  "data": {
+    "accounts": [
+      [
+        "a702990a-8a42-4313-ab90-b65129933562",
+        {
+          "type": "depository",
+          "nickname": "Plaid Checking",
+          "officialName": "Plaid Gold Standard 0% Interest Checking",
+          "currentBalance": 110,
+          "availableBalance": 100,
+          "mask": "0000"
+        }
+      ],
+      [
+        "f2ff0aef-767c-4d2f-b490-efd29667716e",
+        {
+          "type": "depository",
+          "nickname": "Plaid Saving",
+          "officialName": "Plaid Silver Standard 0.1% Interest Saving",
+          "currentBalance": 210,
+          "availableBalance": 200,
+          "mask": "1111"
+        }
+      ],
+      [
+        "62da41ba-e95e-40f8-aaad-71fea693bceb",
+        {
+          "type": "depository",
+          "nickname": "Plaid CD",
+          "officialName": "Plaid Bronze Standard 0.2% Interest CD",
+          "currentBalance": 1000,
+          "availableBalance": 900,
+          "mask": "2222"
+        }
+      ],
+      [
+        "51150175-8cdc-42db-870f-c68ba009f9ab",
+        {
+          "type": "credit",
+          "nickname": "Plaid Credit Card",
+          "officialName": "Plaid Diamond 12.5% APR Interest Credit Card",
+          "currentBalance": 410,
+          "availableBalance": 410,
+          "mask": "3333"
+        }
+      ]
+    ],
+    "info": {
+      "addresses": [
+        {
+          "street": "2992 Cameron Road",
+          "city": "Malakoff",
+          "state": "NY",
+          "zip": "14236"
+        }
+      ],
+      "phoneNumbers": [
+        "18004675243"
+      ],
+      "emails": [
+        "accountholder0@example.com"
+      ],
+      "names": [
+        "Alberta Bobbeth Charleson"
+      ]
+    },
+    "transactions": [
+      [
+        "a702990a-8a42-4313-ab90-b65129933562",
+        [
+          {
+            "amount": 5.4,
+            "description": "Uber 063015 SF**POOL**",
+            "pending": false,
+            "date": "2018-03-27"
+          },
+          {
+            "amount": -500,
+            "description": "United Airlines **** REFUND ****",
+            "pending": false,
+            "date": "2018-03-25"
+          },
+          {
+            "amount": 12,
+            "description": "McDonalds #3322",
+            "pending": false,
+            "date": "2018-03-24"
+          },
+          {
+            "amount": 4.33,
+            "description": "Starbucks",
+            "pending": false,
+            "date": "2018-03-24"
+          },
+          {
+            "amount": 89.4,
+            "description": "SparkFun",
+            "pending": false,
+            "date": "2018-03-23"
+          }
+        ]
+      ],
+      [
+        "f2ff0aef-767c-4d2f-b490-efd29667716e",
+        [
+          {
+            "amount": 25,
+            "description": "CREDIT CARD 3333 PAYMENT *//",
+            "pending": false,
+            "date": "2018-03-26"
+          },
+          {
+            "amount": -4.22,
+            "description": "INTRST PYMNT",
+            "pending": false,
+            "date": "2018-03-22"
+          }
+        ]
+      ],
+      [
+        "62da41ba-e95e-40f8-aaad-71fea693bceb",
+        [
+          {
+            "amount": 1000,
+            "description": "CD DEPOSIT .INITIAL.",
+            "pending": false,
+            "date": "2018-03-26"
+          }
+        ]
+      ],
+      [
+        "51150175-8cdc-42db-870f-c68ba009f9ab",
+        [
+          {
+            "amount": 78.5,
+            "description": "Touchstone Climbing",
+            "pending": false,
+            "date": "2018-03-25"
+          }
+        ]
+      ]
+    ]
+  }
+}

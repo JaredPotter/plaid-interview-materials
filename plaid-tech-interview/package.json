@@ -1,0 +1,23 @@
+{
+  "name": "plaid-tech-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredPotter/plaid-tech-interview.git"
+  },
+  "author": "Jared Potter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaredPotter/plaid-tech-interview/issues"
+  },
+  "homepage": "https://github.com/JaredPotter/plaid-tech-interview#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
